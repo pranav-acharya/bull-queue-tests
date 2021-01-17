@@ -1,10 +1,18 @@
 # How to use
 
-Install 
+## Install 
 ``` npm i ```
 
-Run server
+## Run server
 ``` npm run start``` or ```node .```
 
-Run another terminal for inserting jobs
+## Run another terminal for inserting jobs
 ``` node addJob.js anotherJob 10```
+
+## Viewing the UI
+
+### Bull board
+``` localhost:3000/board```
+
+### Bull arena
+``` localhost:3000/arena```
